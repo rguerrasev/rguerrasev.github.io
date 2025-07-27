@@ -2,9 +2,16 @@ site_name: Mis Documentos
 
 theme:
   name: material 
-  language: es 
+  language: es
+  logo: assets/logo.svg
+  favicon: assets/favicon.png
+  pallete:
+    primary: 'teal'
+    accent: 'blue'
+  features:
+    - header.autohide
 
-repo_url: https://github.com/rguerrasev/rguerrasev.github.io # Link a tu repo
+repo_url: https://github.com/rguerrasev/rguerrasev.github.io
 
 nav:
   - 'Inicio': 'index.md'
