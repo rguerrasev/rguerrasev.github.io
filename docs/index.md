@@ -1,8 +1,11 @@
-# ¡Bienvenido a mi nueva documentación!
+# ¡Bienvenido a mi sitio!
 
-Este es mi nuevo sitio generado con MkDocs.
+Este es un sitio generado con MkDocs.
 
-Puedes usar:
-- Listas
-- **Negrita**
-- `Bloques de código`
+Si quieres aprender a como hacer esto, puedes seguir mi tutorial.
+
+[¡Quiero Aprender!](tutoriales/crear-sitio-con-mkdocs.md)
+
+Y si te gustaría saber más sobre mí, visita la siguiente página.
+
+[Me gustaría saber mas sobre ti](aboutme.md)
