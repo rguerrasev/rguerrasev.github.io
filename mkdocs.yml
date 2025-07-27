@@ -23,4 +23,4 @@ nav:
       - 'Crear un sitio con MkDocs': 'tutoriales/crear-sitio-con-mkdocs.md'
 
 extra_css:
-  - custom_dir/extra.css
+  - stylesheets/extra.css
