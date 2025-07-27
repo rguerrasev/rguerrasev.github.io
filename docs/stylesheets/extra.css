@@ -1,13 +1,15 @@
-:root {
+/* :root se usa para variables, pero a veces necesitamos ser más directos */
+[data-md-color-scheme="default"] {
   /* --- Color del fondo de la página --- */
-  /* Verde oliva muy pálido */
   --md-default-bg-color: #f0f5f2;
-
   /* --- Color del texto principal --- */
-  /* Un gris oscuro para buena legibilidad sobre el fondo claro */
   --md-default-fg-color: #2b2b2b;
+  /* --- Color de enlaces y acentos --- */
+  --md-accent-fg-color: #509c71;
+}
 
-  /* --- Color de enlaces y acentos (RECOMENDADO) --- */
-  /* Usamos un tono más oscuro de tu logo para un contraste perfecto */
-  --md-accent-fg-color: #5a8a6f;
+/* --- REGLA PARA FORZAR EL COLOR DEL ENCABEZADO --- */
+/* Esto anulará el color primario por defecto (el azul) */
+.md-header {
+  background-color: var(--md-primary-fg-color, #509c71); /* Usamos tu color exacto del logo */
 }
