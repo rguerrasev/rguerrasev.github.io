@@ -1,11 +1,11 @@
 /* Define los colores base para el tema por defecto */
 [data-md-color-scheme="default"] {
   /* --- Contenido Principal en Verde Oliva Suave --- */
-  --md-default-bg-color: #f0f5f2;
+  --md-default-bg-color: #b2f3cc;
   --md-default-fg-color: #2b2b2b; /* Texto oscuro para legibilidad */
 
   /* --- Color de acento para enlaces dentro del contenido --- */
-  --md-accent-fg-color: #5a8a6f; /* Un tono más oscuro de tu verde */
+  --md-accent-fg-color: #b2f3cc; /* Un tono más oscuro de tu verde */
 }
 
 /* --- Encabezado Superior en Blanco --- */
@@ -21,7 +21,7 @@
 
 /* --- Barra de Navegación (Izquierda) en Teal --- */
 .md-nav--primary {
-  background-color: #ffffff; /* Color Teal */
+  background-color: #b2f3cc; /* Color Teal */
 }
 
 /* Cambia el color del texto y los enlaces de la navegación a blanco */
