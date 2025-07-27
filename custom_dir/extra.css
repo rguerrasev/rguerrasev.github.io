@@ -1,0 +1,13 @@
+:root {
+  /* --- Color del fondo de la página --- */
+  /* Verde oliva muy pálido */
+  --md-default-bg-color: #f0f5f2;
+
+  /* --- Color del texto principal --- */
+  /* Un gris oscuro para buena legibilidad sobre el fondo claro */
+  --md-default-fg-color: #2b2b2b;
+
+  /* --- Color de enlaces y acentos (RECOMENDADO) --- */
+  /* Usamos un tono más oscuro de tu logo para un contraste perfecto */
+  --md-accent-fg-color: #5a8a6f;
+}
