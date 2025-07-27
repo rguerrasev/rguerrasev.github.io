@@ -6,8 +6,8 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.png
   palette:
-    primary: 'teal'
-    accent: 'blue'
+    primary: 'white'
+    accent: 'teal'
   features:
     - header.autohide
 
