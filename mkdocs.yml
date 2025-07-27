@@ -8,3 +8,6 @@ repo_url: https://github.com/rguerrasev/rguerrasev.github.io # Link a tu repo
 
 nav:
   - 'Inicio': 'index.md'
+  - 'Sobre mi': 'aboutme.md'
+  - 'Tutoriales':
+      - 'Crear un sitio con MkDocs': 'tutoriales/crear-sitio-con-mkdocs.md'
