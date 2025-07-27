@@ -4,7 +4,7 @@ Una colección de comandos que uso frecuentemente, organizados por categoría.
 
 ---
 
-### ## Navegación y Gestión de Archivos
+### Navegación y Gestión de Archivos
 
 * `ls`: Lista el contenido de un directorio.
   * `ls -la`: Muestra archivos ocultos, permisos y otros detalles.
@@ -22,7 +22,7 @@ Una colección de comandos que uso frecuentemente, organizados por categoría.
 
 ---
 
-### ## Búsqueda y Procesamiento de Texto
+### Búsqueda y Procesamiento de Texto
 
 * `grep`: Busca patrones de texto dentro de archivos.
   * `grep "error" archivo.log`: Encuentra todas las líneas que contienen la palabra "error".
@@ -32,7 +32,7 @@ Una colección de comandos que uso frecuentemente, organizados por categoría.
 
 ---
 
-### ## Monitoreo del Sistema
+### Monitoreo del Sistema
 
 * `top` o `htop`: Muestra los procesos en ejecución y el uso de recursos en tiempo real (`htop` es más visual y recomendado).
 * `df`: Muestra el uso de espacio en disco de los sistemas de archivos.
@@ -45,7 +45,7 @@ Una colección de comandos que uso frecuentemente, organizados por categoría.
 
 ---
 
-### ## Diagnóstico de Red
+### Diagnóstico de Red
 
 * `ping`: Envía paquetes a un host para verificar conectividad.
 * `nslookup` o `dig`: Realiza consultas DNS para resolver nombres de dominio. `dig` es más potente.
@@ -55,7 +55,7 @@ Una colección de comandos que uso frecuentemente, organizados por categoría.
 
 ---
 
-### ## Gestión de Permisos
+### Gestión de Permisos
 
 * `chmod`: Cambia los permisos de un archivo o directorio.
 * `chown`: Cambia el propietario y el grupo de un archivo o directorio.
