@@ -5,7 +5,7 @@ theme:
   language: es
   logo: assets/logo.png
   favicon: assets/favicon.png
-  pallete:
+  palette:
     primary: 'teal'
     accent: 'blue'
   features:
