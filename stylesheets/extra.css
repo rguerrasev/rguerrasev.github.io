@@ -1,7 +1,7 @@
 /* Define los colores base para el tema por defecto */
 [data-md-color-scheme="default"] {
   /* --- Contenido Principal en Verde Oliva Suave --- */
-  --md-default-bg-color: #b2f3cc;
+  --md-default-bg-color: #d7f7e4;
   --md-default-fg-color: #2b2b2b; /* Texto oscuro para legibilidad */
 
   /* --- Color de acento para enlaces dentro del contenido --- */
@@ -21,7 +21,7 @@
 
 /* --- Barra de Navegación (Izquierda) en Teal --- */
 .md-nav--primary {
-  background-color: #b2f3cc; /* Color Teal */
+  background-color: #d7f7e4; /* Color Teal */
 }
 
 /* Cambia el color del texto y los enlaces de la navegación a blanco */
