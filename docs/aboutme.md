@@ -27,7 +27,7 @@ Actualmente, me especializo en construir y mantener sistemas eficientes, escalab
 
 Siempre estoy abierto a conectar con otros profesionales, aprender sobre nuevas tecnologías o explorar oportunidades interesantes.
 
-* **LinkedIn:** [Roberto Guerra Severino](https://www.linkedin.com/in/roberto-guerra-severino-438195b0/)
+* **LinkedIn:** [Roberto Guerra Severino](https://www.linkedin.com/in/roberto-guerra-severino/)
 * **GitHub:** Puedes explorar mis proyectos directamente en [mi perfil de GitHub](https://github.com/rguerrasev).
 
 ---
