@@ -1,6 +1,6 @@
 # Sobre mí
 
-¡Hola! Soy **Roberto Guerra Severino**, un apasionado profesional de la tecnología con un fuerte enfoque en la **automatización de infraestructura y la cultura DevOps**.
+Mi nombre es **Roberto Guerra Severino**, un apasionado profesional de la tecnología con un fuerte enfoque en la **automatización de infraestructura y la cultura DevOps**.
 
 Actualmente, me especializo en construir y mantener sistemas eficientes, escalables y seguros en la nube. Mi objetivo es simple: automatizar todo lo posible para permitir que los equipos de desarrollo se enfoquen en lo que mejor saben hacer, que es crear productos increíbles.
 
