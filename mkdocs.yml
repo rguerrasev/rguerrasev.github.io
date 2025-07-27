@@ -1,0 +1,10 @@
+site_name: Mis Documentos 
+
+theme:
+  name: material 
+  language: es 
+
+repo_url: https://github.com/rguerrasev/rguerrasev.github.io # Link a tu repo
+
+nav:
+  - 'Inicio': 'index.md'
