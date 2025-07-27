@@ -3,7 +3,7 @@ site_name: Mis Documentos
 theme:
   name: material 
   language: es
-  logo: assets/logo.svg
+  logo: assets/logo.png
   favicon: assets/favicon.png
   pallete:
     primary: 'teal'
