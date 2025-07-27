@@ -27,7 +27,7 @@
 /* Cambia el color del texto y los enlaces de la navegación a blanco */
 .md-nav--primary .md-nav__link,
 .md-nav--primary .md-nav__title {
-  color: #FFFFFF;
+  color: #50b672;
 }
 
 /* Cambia el color del enlace activo en la navegación */
