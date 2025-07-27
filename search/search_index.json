@@ -1,0 +1,1 @@
+{"config":{"lang":["es"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"\u00a1Bienvenido a mi nueva documentaci\u00f3n!","text":"<p>Este es mi nuevo sitio generado con MkDocs.</p> <p>Puedes usar: - Listas - Negrita - <code>Bloques de c\u00f3digo</code></p>"}]}
